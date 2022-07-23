@@ -7246,7 +7246,7 @@ input[type=color]::placeholder {
   margin: -30px 0 0 -30px;
   background: #ffffff;
   border-radius: 50%;
-  background-image: url("../../assets/images/logo/preload.png");
+  background-image: url("../../assets/images/logo/logo_48.png");
   background-repeat: no-repeat;
   background-position: center center;
   animation: preload 1s linear infinite alternate;
